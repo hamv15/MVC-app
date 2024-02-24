@@ -41,7 +41,6 @@ Esta práctica busca cumplir con los siguientes requerimientos:
 | Xcode | 15.2 |
 | Swift | 5.9 |
 | iOS | 17.2 |
-| min SDK | 21 |
 
 
 
