@@ -5,7 +5,7 @@ Proyecto dónde se genera una interfaz gráfica con grupos de vistas, tales como
 
 - ✅ Table View
 - ✅ Table View Cell
-- ✅ Lablel
+- ✅ Label
 - ✅ Image View
 - ✅ Button
 
